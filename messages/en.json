@@ -1,0 +1,206 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "industries": "Industries",
+    "employers": "Employers",
+    "jobSeekers": "Job Seekers",
+    "contact": "Contact",
+    "requestStaffing": "Request Staffing",
+    "submitCV": "Submit Your CV",
+    "switchLanguage": "العربية"
+  },
+  "home": {
+    "hero": {
+      "title": "Hire fast in Saudi Arabia — from anywhere in 45 days",
+      "subtitle": "Temporary staffing, recruitment, GRO & business setup. End‑to‑end onboarding and compliance.",
+      "ctaPrimary": "Request Staffing",
+      "ctaSecondary": "Submit Your CV"
+    },
+    "stats": {
+      "contractors": "480+ contractors placed",
+      "clients": "20+ clients",
+      "avgTime": "45‑day average time‑to‑hire",
+      "countries": "Hires from 39+ countries"
+    },
+    "trustTitle": "Trusted by leaders in KSA",
+    "valueProps": {
+      "title": "Why choose Work Force",
+      "speed": {
+        "title": "Speed at scale",
+        "desc": "Ramp teams in weeks, not months"
+      },
+      "compliance": {
+        "title": "End‑to‑end compliance",
+        "desc": "Visas, Qiwa, Mudad, GOSI, payroll"
+      },
+      "global": {
+        "title": "Global sourcing",
+        "desc": "Mobilize talent from 39+ countries"
+      }
+    },
+    "process": {
+      "title": "How it works",
+      "steps": {
+        "scope": "Scope",
+        "shortlist": "Shortlist in 7–10 days",
+        "interview": "Interview",
+        "offer": "Offer & visa",
+        "onboard": "Onboard & payroll"
+      }
+    },
+    "caseHighlight": "50 technicians mobilized in 32 days for a KSA project.",
+    "finalCta": {
+      "title": "Need a team fast?",
+      "button": "Request Staffing"
+    }
+  },
+  "services": {
+    "title": "Services built for speed",
+    "subtitle": "We focus on fast, compliant hiring. From one role to full project teams.",
+    "staffing": {
+      "title": "Staffing",
+      "desc": "Rapid sourcing, sponsorship, visas, payroll, and on‑site management under our umbrella. Ideal for projects."
+    },
+    "tempStaffing": {
+      "title": "Temporary Staffing",
+      "desc": "Flexible headcount for peaks, events, and seasonal ops."
+    },
+    "recruitment": {
+      "title": "Recruitment",
+      "desc": "Headhunting and niche roles. Fixed fees, clear SLAs, fast shortlists."
+    },
+    "gro": {
+      "title": "GRO (Government Relations)",
+      "desc": "Qiwa, Mudad, GOSI, visas, attestations — handled end‑to‑end."
+    },
+    "businessSetup": {
+      "title": "Business Setup",
+      "desc": "Entity setup and ongoing compliance to operate and hire in KSA."
+    }
+  },
+  "employers": {
+    "hero": {
+      "title": "Build your team in 45 days — anywhere to KSA",
+      "subtitle": "Fast mobilization for projects with full compliance"
+    },
+    "whyWorkForce": {
+      "title": "Why Work Force",
+      "benefits": [
+        "Fast mobilization for projects",
+        "Full compliance (Qiwa, Mudad, GOSI)",
+        "Sponsorship & visas under our company",
+        "Payroll, HR, and on‑site supervision",
+        "Transparent pricing, clear SLAs"
+      ]
+    },
+    "industries": {
+      "title": "Industries we serve",
+      "list": ["IT", "Hospitality", "Construction", "Banking", "Defense"]
+    },
+    "process": {
+      "title": "Our process & SLA",
+      "briefing": "Briefing: 24–48h kickoff",
+      "shortlist": "Shortlist: 7–10 days",
+      "offers": "Offers & visas: as per nationality & quota",
+      "mobilization": "Mobilization: 2–6 weeks average"
+    },
+    "form": {
+      "title": "Request Staffing",
+      "company": "Company",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "roles": "Role(s) & headcount",
+      "startDate": "Start date",
+      "location": "Work location",
+      "sponsorship": "Sponsorship",
+      "sponsorshipOurs": "Under Work Force",
+      "sponsorshipYours": "Under your company",
+      "notes": "Notes",
+      "submit": "Submit Request",
+      "success": "Thanks — our team will contact you within one business day."
+    }
+  },
+  "jobSeekers": {
+    "hero": {
+      "title": "Build your career in Saudi Arabia",
+      "subtitle": "Join 480+ professionals we've successfully placed"
+    },
+    "whyApply": {
+      "title": "Why apply through us",
+      "benefits": [
+        "Roles with reputable employers",
+        "Visa & relocation support",
+        "Payroll on time and full benefits",
+        "Clear contracts and onboarding"
+      ]
+    },
+    "successNote": "We've placed 480+ professionals from 39+ countries across KSA.",
+    "form": {
+      "title": "Submit Your CV",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone/WhatsApp",
+      "nationality": "Nationality",
+      "currentLocation": "Current location",
+      "desiredRole": "Desired role",
+      "noticePeriod": "Notice period",
+      "expectedSalary": "Expected salary (SAR)",
+      "uploadCV": "Upload CV (PDF)",
+      "linkedin": "LinkedIn URL",
+      "submit": "Submit Application",
+      "success": "Thanks — we'll contact you if your profile matches current roles."
+    },
+    "faq": {
+      "title": "Frequently asked questions",
+      "legitimateQ": "Is Work Force a legitimate employer?",
+      "legitimateA": "Yes — we operate in KSA with full compliance (Qiwa, Mudad, GOSI)."
+    }
+  },
+  "about": {
+    "title": "About Work Force",
+    "intro": "Work Force is a Saudi staffing & recruitment company helping organizations ramp teams fast — with full compliance and global sourcing.",
+    "ourDifference": {
+      "title": "Our difference",
+      "desc": "Speed, compliance, and clear communication. We focus on measurable SLAs and predictable delivery."
+    },
+    "globalReach": "Hires from 39+ countries",
+    "mission": "Our mission is to connect global talent with Saudi opportunities through fast, compliant, and transparent processes."
+  },
+  "industries": {
+    "title": "Industries we serve",
+    "subtitle": "Sector-savvy teams, faster placements.",
+    "it": "Engineers, developers, data & cloud",
+    "hospitality": "Front office, F&B, housekeeping, events",
+    "construction": "HSE, site engineers, technicians",
+    "banking": "Ops, compliance, digital, CX",
+    "defense": "Technical support, logistics, project ops"
+  },
+  "contact": {
+    "title": "Contact us",
+    "address": "Riyadh, Saudi Arabia",
+    "email": "info@workforce.sa",
+    "phone": "+966 11 123 4567",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "topic": "Topic",
+      "topicStaffing": "Staffing",
+      "topicRecruitment": "Recruitment",
+      "topicGRO": "GRO",
+      "topicOther": "Other",
+      "message": "Message",
+      "submit": "Send Message",
+      "success": "Thanks — we'll get back to you within one business day."
+    }
+  },
+  "footer": {
+    "copyright": "© Work Force. Licensed employer of record and staffing provider in KSA. Qiwa • Mudad • GOSI compliant.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "careers": "Careers"
+  }
+}

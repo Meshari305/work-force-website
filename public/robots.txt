@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+# Disallow admin and API routes
+Disallow: /api/
+Disallow: /_next/
+Disallow: /admin/
+
+# Allow important pages
+Allow: /en/
+Allow: /ar/
+Allow: /en/employers
+Allow: /ar/employers
+Allow: /en/job-seekers
+Allow: /ar/job-seekers
+Allow: /en/services
+Allow: /ar/services
+Allow: /en/industries
+Allow: /ar/industries
+Allow: /en/about
+Allow: /ar/about
+Allow: /en/contact
+Allow: /ar/contact
+
+# Sitemap
+Sitemap: https://workforce.sa/sitemap.xml
