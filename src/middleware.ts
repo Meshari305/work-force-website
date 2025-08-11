@@ -5,13 +5,10 @@ export default createMiddleware({
   locales: ['en', 'ar'],
 
   // Used when no locale matches
-  defaultLocale: 'en',
-
-  // Always show a locale prefix in the URL
-  localePrefix: 'always'
+  defaultLocale: 'en'
 });
 
 export const config = {
   // Match only internationalized pathnames
-  matcher: ['/((?!api|_next|_vercel|.*\\..*).*)']
+  matcher: ['/((?!api|_next/static|_next/image|favicon.ico).*)']
 };
